@@ -9,3 +9,8 @@
 - 🔭 I’m currently working on Swift
 - 🌱 I’m currently learning Swift and Objective-C
 - 🌍 I speak Russian (native), English (A2)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AndNasPlay&theme=solarized_dark)
+
+
+Languages:
