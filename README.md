@@ -2,7 +2,7 @@
 <h3 align="center"> iOS developer 🇺</h3>
 
 [![codewars](https://www.codewars.com/users/AndyNas/badges/small)](https://www.codewars.com/users/AndyNas)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndNasPlay)](https://github.com/AndNasPlay/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndNasPlay&show_icons=true&theme=radical)
 
 <!--
 **AndNasPlay/AndNasPlay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
