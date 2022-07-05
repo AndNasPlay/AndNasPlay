@@ -3,10 +3,6 @@
 
 ---
 
-[![codewars](https://www.codewars.com/users/AndyNas/badges/small)](https://www.codewars.com/users/AndyNas)
-
----
-
 - 🔭 I’m currently working on Swift
 - 🌱 I’m currently learning Swift and Objective-C
 - 🌍 I speak Russian (native), English (A2)
@@ -25,6 +21,8 @@
 ---
 
 ### :fire: My Stats :
+
+[![codewars](https://www.codewars.com/users/AndyNas/badges/small)](https://www.codewars.com/users/AndyNas)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndNasPlay&show_icons=true&theme=radical)
 
