@@ -1,5 +1,5 @@
-<h3 align="center"> Hi there I'm Andrey </h3>
-<h3 align="center"> iOS developer </h3>
+### Hi there I'm Andrey 
+### iOS developer
 
 ---
 
