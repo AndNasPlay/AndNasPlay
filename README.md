@@ -1,8 +1,7 @@
 ### Hi there I'm Andrey
 <h3 align="center"> iOS developer 🇺</h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=iOS+developer)](https://git.io/typing-svg)
 
-[![codewars](https://www.codewars.com/users/AndyNas/badges/large)](https://www.codewars.com/users/AndyNas)
+[![codewars](https://www.codewars.com/users/AndyNas/badges/small)](https://www.codewars.com/users/AndyNas)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndNasPlay)](https://github.com/AndNasPlay/github-readme-stats)
 
 <!--
