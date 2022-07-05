@@ -10,7 +10,8 @@
 - 🌱 I’m currently learning Swift and Objective-C
 - 🌍 I speak Russian (native), English (A2)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AndNasPlay&theme=solarized_dark)
-
-
-Languages:
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
+  
+</div>
