@@ -11,8 +11,6 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-![Картинка][image3]
-[image3]: https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/objectivec/objectivec-plain.svg" title="Objective-C" alt="Objective-C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
