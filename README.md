@@ -23,7 +23,3 @@
 ### :fire: My Stats :
 
 [![codewars](https://www.codewars.com/users/AndyNas/badges/large)](https://www.codewars.com/users/AndyNas)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndNasPlay)](https://github.com/AndNasPlay/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndNasPlay&layout=compact&theme=vision-friendly-dark)](https://github.com/AndNasPlay/github-readme-stats)
