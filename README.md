@@ -3,8 +3,7 @@
 
 ---
 
-- 🔭 I’m currently working on Swift
-- 🌱 I’m currently learning Swift and Objective-C
+- 🔭 I’m currently working on Swift and Objective-C
 - 🌍 I speak Russian (native), English (B1)
 
 ---
