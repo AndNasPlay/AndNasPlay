@@ -23,4 +23,3 @@
 
 [![codewars](https://www.codewars.com/users/AndyNas/badges/large)](https://www.codewars.com/users/AndyNas)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndNasPlay&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
